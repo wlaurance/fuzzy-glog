@@ -9,8 +9,10 @@
     "jade": ">= 0.19.0",
     "mocha": ">= 0.8.2",
     "rss": ">= 0.0.3",
-    "async": ">= 0.1.22",
-    "config": "~0.4.17"
+    "async": "~0.1.22",
+    "config": "~0.4.17",
+    "ditaa": "0.0.6",
+    "gurl": "0.0.3"
   },
   "devDependencies": {
     "underscore": "~1.4.2"
