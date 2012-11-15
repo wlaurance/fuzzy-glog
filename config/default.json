@@ -1,5 +1,5 @@
 {
-	"blog_repository"   : "git@github.com:wlaurance/fuzzy-octo-adventure.git",
+	"blog_repository"   : "https://github.com/wlaurance/fuzzy-octo-adventure.git",
 	"author"            : "wlaurance",
 	"blog_title"        : "fuzzy-octo-adventure",
 	"port"              : 8080,
