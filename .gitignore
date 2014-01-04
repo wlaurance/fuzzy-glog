@@ -1,2 +1,4 @@
 node_modules/
 blog_repo/
+test/blog_repo/
+test/config/runtime.json
